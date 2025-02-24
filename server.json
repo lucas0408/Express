@@ -1,5 +1,1 @@
-{
-    "users": [
-        
-    ]
-}
+{"users":[{"id":"719f5a7a-60a5-4834-a6d9-290940644733","name":"Lucas","age":14},{"id":"1926e0f5-8f5e-4dca-b3aa-b34f123836bd","name":"caique","age":12},{"id":"baf650f5-ccd7-4d22-b19b-93c93db11d59","name":"caique","age":12},{"id":"0e24d724-8a24-49e3-b7d3-b8368d68acc4","name":"Lucas","age":14},{"id":"f60a45a5-e252-4bcc-a4ba-3b44a8c7a4ad","name":"Lucas","age":14},{"id":"eaebcd05-69bc-4e30-896a-ffff1e5a5529","name":"Lucas","age":14},{"id":"3a35097b-0c04-4fe0-a9c0-7ad665391e90","name":"Lucas","age":14},{"id":"76198739-09dc-4da7-ab21-c768059b28f6","name":"Lucas","age":14},{"id":"672a243e-ccf2-4e71-ada7-cec462d98c6d","name":"Lucas","age":14}]}
